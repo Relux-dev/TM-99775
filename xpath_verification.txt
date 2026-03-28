@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: alertTitle
+TAG: androidx.appcompat.widget.DialogTitle
+STATUS: ZALICZONE
